@@ -1,5 +1,5 @@
 # social_network
-Create a social map
+Create a social map.
 
 ## Install
 1. Transfer this module in your custom folder

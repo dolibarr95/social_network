@@ -6,6 +6,9 @@ Create a social map.
 2. Create an extrafield in Third parties
 3. Activate the module
 
+## SQL
+By activating this module the table llx_salon will be created (if not exists).
+
 ## Extrafield
 Complementary attributes (thirdparty)
 

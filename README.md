@@ -23,6 +23,13 @@ Complementary attributes (thirdparty)
 | Show by default on list view ||
 
 ## Operating mode
+Open the new link 'Salon' in Third party
+Create/Edit a label (works as tags) 
+_eg: 
+Salon de l'automobile 2017
+CES las vegas 2018
+..._
+/!\ don't create label with same name /!\ 
 
 
 ## Warning

@@ -14,7 +14,7 @@ Complementary attributes (thirdparty)
 | Label    |As you want|
 | Attribute code    |salon|
 | Type | Checkboxes from table|
-| Value | salon:label:rowid::1=1 order by label |
+| Value | `salon:label:rowid::1=1 order by label` |
 | Position | 0 |
 | Default value (Database) ||
 | Unique ||

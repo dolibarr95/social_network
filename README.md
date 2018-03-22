@@ -27,9 +27,9 @@ Open the new link 'Salon' in Third party
 Create/Edit a label (works as tags) /!\ don't create label with same name /!\ 
 
 _eg: 
-Salon de l'automobile 2017
-Reifen
-CES las vegas 2018
+* Salon de l'automobile 2017
+* Reifen
+* CES las vegas 2018
 ..._
 
 Open a third party card and edit the new extrafield value with the tags you want.
